@@ -1,2 +1,2 @@
-# basic_api_proxy
-A basic apigee proxy
+# basic_api_proxies
+A few basic apigee proxies
